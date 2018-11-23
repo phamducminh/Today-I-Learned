@@ -8,7 +8,7 @@ _11 TILs and counting..._
 - [Nested Recyclerview Performance](android/nested-recyclerview.md)
 
 ### Design Patterns
-- [Singleton Pattern and hidden thing](design-pattern/singleton-pattern.md)
+- [Singleton Pattern and hidden things](design-pattern/singleton-pattern.md)
 
 ### FFMpeg
 - [Useful command when working with ffmpeg library](ffmpeg/useful-command.md)
