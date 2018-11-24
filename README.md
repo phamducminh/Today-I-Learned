@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -24,6 +24,7 @@ _13 TILs and counting..._
 ### Android
 
 - [Nested Recyclerview Performance](android/nested-recyclerview.md) :clock330:
+- [Primitive Sets for Android](android/primitive-sets.md) :clock330: :soon:
 
 ### Design Patterns
 
