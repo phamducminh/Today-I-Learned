@@ -37,7 +37,7 @@ _13 TILs and counting..._
 ### General
 
 - [Things I know about AutoValue powered by Google](general/auto-value.md) :clock330:
-- [](general/simplify-mode-comparision.md)
+- [How do I simplify mode comparison](general/simplify-mode-comparision.md)
 
 ### Git
 
