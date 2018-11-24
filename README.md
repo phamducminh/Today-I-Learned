@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
@@ -37,6 +37,7 @@ _12 TILs and counting..._
 ### General
 
 - [Things I know about AutoValue powered by Google](general/auto-value.md) :clock330:
+- [](general/simplify-mode-comparision.md)
 
 ### Git
 
