@@ -31,7 +31,7 @@ _11 TILs and counting..._
 
 ### FFMpeg
 
-- [Useful command when working with ffmpeg library](ffmpeg/useful-command.md) :clock330:
+- [Useful command when working with ffmpeg library](ffmpeg/useful-command.md)
 
 ### General
 
