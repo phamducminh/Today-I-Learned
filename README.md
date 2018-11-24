@@ -23,30 +23,30 @@ _11 TILs and counting..._
 
 ### Android
 
-- [Nested Recyclerview Performance](android/nested-recyclerview.md)
+- [Nested Recyclerview Performance](android/nested-recyclerview.md) :clock330:
 
 ### Design Patterns
 
-- [Singleton Pattern and hidden things](design-pattern/singleton-pattern.md)
+- [Singleton Pattern and hidden things](design-pattern/singleton-pattern.md) :clock330: :soon:
 
 ### FFMpeg
 
-- [Useful command when working with ffmpeg library](ffmpeg/useful-command.md)
+- [Useful command when working with ffmpeg library](ffmpeg/useful-command.md) :clock330:
 
 ### General
 
-- [Things I know about AutoValue powered by Google](general/auto-value.md)
+- [Things I know about AutoValue powered by Google](general/auto-value.md) :clock330:
 
 ### Git
 
-- [Git useful command for your daily work](git/useful-command.md)
-- [How to hands-on git rebase interactive](git/git-rebase-interactive.md)
+- [Git useful command for your daily work](git/useful-command.md) :clock330:
+- [How to hands-on git rebase interactive](git/git-rebase-interactive.md) :clock330:
 - Common Git Workflow
-  + [Centralized workflow](git/workflows/centralized-workflow.md)
-  + [Feature branch workflow](git/workflows/feature-branch-workflow.md)
-  + [Gitflow workflow](git/workflows/gitflow-workflow.md)
-  + [Forking workflow](git/workflows/forking-workflow.md)
+  + [Centralized workflow](git/workflows/centralized-workflow.md) :clock330:
+  + [Feature branch workflow](git/workflows/feature-branch-workflow.md) :clock330:
+  + [Gitflow workflow](git/workflows/gitflow-workflow.md) :clock330:
+  + [Forking workflow](git/workflows/forking-workflow.md) :clock330:
 
 ### Sql
 
-- [Personal sql useful query statement and command](sql/useful-command.md)
+- [Personal sql useful query statement and command](sql/useful-command.md) :clock330:
