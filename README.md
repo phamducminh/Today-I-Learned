@@ -35,6 +35,10 @@ _14 TILs and counting..._
 
 - [Useful command when working with ffmpeg library](ffmpeg/useful-command.md)
 
+### Flutter
+
+- [Hands-on Flutter Navigator](flutter/navigator-use-cases.md) :clock330:
+
 ### General
 
 - [Things I know about AutoValue powered by Google](general/auto-value.md) :clock330:
