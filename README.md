@@ -29,7 +29,7 @@ _14 TILs and counting..._
 ### Design Patterns
 
 - [Singleton Pattern and hidden things](design-pattern/singleton-pattern.md)
-- [Builder Pattern](design-pattern/builder-pattern.md) :clock330: :soon:
+- [Builder Pattern](design-pattern/builder-pattern.md)
 
 ### FFMpeg
 
