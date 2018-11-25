@@ -15,6 +15,7 @@ _15 TILs and counting..._
 * [Android](README.md#Android)
 * [Design Patterns](README.md#Design-Patterns)
 * [FFMpeg](README.md#FFMpeg)
+* [Flutter](README.md#Flutter)
 * [General](README.md#General)
 * [Git](README.md#Git)
 * [Sql](README.md#Sql)
