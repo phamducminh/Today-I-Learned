@@ -1,6 +1,6 @@
 # Nested Recycler View
 
-<!-- ![](resources/nested-recyclerview-sample.jpg) -->
+![](resources/nested-recyclerview-sample.jpg)
 
 When the user swipes the side-wise the inner RecyclerView recycles the views and gives you a smooth scroll. But this is not the case when the user scrolls vertically. Each of the views of the inner RecyclerView is inflated again. This is because each of the the nested RecyclerViews has a view pool of its own.
 
