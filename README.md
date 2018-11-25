@@ -23,7 +23,7 @@ _14 TILs and counting..._
 
 ### Android
 
-- [Nested Recyclerview Performance](android/nested-recyclerview.md) :clock330:
+- [Nested RecyclerView Performance](android/nested-recyclerview.md)
 - [Primitive Sets for Android](android/primitive-sets.md) :clock330: :soon:
 
 ### Design Patterns
