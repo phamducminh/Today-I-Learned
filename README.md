@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_15 TILs and counting..._
+_16 TILs and counting..._
 
 ---
 
@@ -44,6 +44,7 @@ _15 TILs and counting..._
 
 - [Things I know about AutoValue powered by Google](general/auto-value.md) :clock330:
 - [How do I simplify mode comparison](general/simplify-mode-comparision.md)
+- [Crazy synchronized void foo() - synchronized(this) - synchronized(Class.this) - synchronized(Class.class)](general/how-to-use-synchronized-keyword.md)
 
 ### Git
 
