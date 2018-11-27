@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_16 TILs and counting..._
+_18 TILs and counting..._
 
 ---
 
@@ -26,6 +26,8 @@ _16 TILs and counting..._
 
 - [Nested RecyclerView Performance](android/nested-recyclerview.md)
 - [Primitive Sets for Android](android/primitive-sets.md) :clock330: :soon:
+- [IntDef/StringDef Vs Enum](android/intdef-stringdef-vs-enum.md) :clock330: :soon:
+- [SparseArray Vs HashMap](android/sparsearray-vs-hashmap.md)  :clock330: :soon:
 
 ### Design Patterns
 
