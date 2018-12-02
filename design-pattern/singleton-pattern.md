@@ -139,6 +139,8 @@ public class Singleton {
 }
 ```
 
+Note the local variable "`result`", which seems unnecessary. The effect of this is that in cases where `sInstance` is already initialized (i.e., most of the time), the volatile field is only accessed once (due to "`return result;`" instead of "`return sInstance;`"), which can improve the method's overall performance by as much as 25 percent.
+
 * **Static Block Initialization (Class Loader)**
 
 ```java
