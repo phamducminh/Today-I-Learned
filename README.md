@@ -27,8 +27,8 @@ _20 TILs and counting..._
 - [Nested RecyclerView Performance](android/nested-recyclerview.md)
 - [Primitive Sets for Android](android/primitive-sets.md) :clock330: :soon:
 - [IntDef/StringDef Vs Enum](android/intdef-stringdef-vs-enum.md) :clock330: :soon:
-- [SparseArray Vs HashMap](android/sparsearray-vs-hashmap.md)  :clock330: :soon:
-- [Tasks and the Back Stack](https://medium.com/androiddevelopers/tasks-and-the-back-stack-dbb7c3b0f6d4)
+- [SparseArray Vs HashMap](android/sparsearray-vs-hashmap.md) :clock330: :soon:
+- [Tasks and the Back Stack](https://medium.com/androiddevelopers/tasks-and-the-back-stack-dbb7c3b0f6d4) :clock330: :soon:
 
 ### Design Patterns
 
