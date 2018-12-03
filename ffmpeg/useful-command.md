@@ -12,10 +12,16 @@ To be continue...
 ffprobe -show_packets <path_to_source>
 ```
 
-* Show video profile
+* Show all video/audio format and stream
 
 ```
-ffprobe -v error -select_streams v:0 -show_entries stream=profile,level -of default=noprint_wrappers=1
+ffprobe -v error -show_format -show_streams <path_to_source>
+```
+
+* Show video profile only
+
+```
+ffprobe -v error -select_streams v:0 -show_entries stream=profile,level -of default=noprint_wrappers=1 <path_to_source>
 ```
 
 You can list more info of video stream, just put them in stream param, separate by comma.
