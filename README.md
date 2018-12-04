@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_20 TILs and counting..._
+_21 TILs and counting..._
 
 ---
 
@@ -49,6 +49,7 @@ _20 TILs and counting..._
 - [How do I simplify mode comparison](general/simplify-mode-comparision.md)
 - [Crazy synchronized void foo() - synchronized(this) - synchronized(Class.this) - synchronized(Class.class)](general/how-to-use-synchronized-keyword.md)
 - [Inheritance versus composition: Which one should you choose?](https://www.javaworld.com/article/2076814/core-java/inheritance-versus-composition--which-one-should-you-choose-.html)
+- [Difference between transient vs volatile variable or modifier in Java](general/transient-vs-volatile.md) :clock330:
 
 ### Git
 
