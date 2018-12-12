@@ -54,7 +54,7 @@ _22 TILs and counting..._
 
 ### Git
 
-- [Git useful command for your daily work](git/useful-command.md) :clock330:
+- [Git useful command for your daily work](git/useful-command.md)
 - [How to hands-on git rebase interactive](git/git-rebase-interactive.md) :clock330:
 - Common Git Workflow
   + [Centralized workflow](git/workflows/centralized-workflow.md) :clock330:
