@@ -1,4 +1,4 @@
-# Difference between transient vs volatile variable or modifier in Java
+# Difference between transient vs volatile variable in Java
 
 ## Transient
 
