@@ -6,7 +6,7 @@
 $ git commit --amend
 ```
 
-**_It’s like a very small rebase – don’t amend your last com- mit if you’ve already pushed it._**
+**_It’s like a very small rebase – don’t amend your last commit if you’ve already pushed it._**
 
 ## Changing Multiple Commit Messages
 
