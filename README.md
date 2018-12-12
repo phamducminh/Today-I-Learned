@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_24 TILs and counting..._
+_25 TILs and counting..._
 
 ---
 
@@ -59,6 +59,7 @@ _24 TILs and counting..._
     - [Rewriting History](git/git-rewriting-history.md)
     - [Rerere](git/git-rerere.md) :clock330:
     - [Binary Search](git/git-bisect.md) :clock330:
+    - [Have fun with git alias](git/git-alias.md) :clock330:
 - Common Git Workflow
   + [Centralized workflow](git/workflows/centralized-workflow.md) :clock330:
   + [Feature branch workflow](git/workflows/feature-branch-workflow.md) :clock330:
