@@ -49,7 +49,7 @@ _22 TILs and counting..._
 - [How do I simplify mode comparison](general/simplify-mode-comparision.md)
 - [Crazy synchronized void foo() - synchronized(this) - synchronized(Class.this) - synchronized(Class.class)](general/how-to-use-synchronized-keyword.md)
 - [Inheritance versus composition: Which one should you choose?](https://www.javaworld.com/article/2076814/core-java/inheritance-versus-composition--which-one-should-you-choose-.html)
-- [Difference between transient vs volatile variable or modifier in Java](general/transient-vs-volatile.md) :clock330:
+- [Difference between transient vs volatile variable or modifier in Java](general/transient-vs-volatile.md)
 - [HashMap vs HashTable vs SynchronizedMap vs ConcurrentHashMap](general/hashmap-hashtable-synchronizedmap-concurrenthashmap.md)
 
 ### Git
