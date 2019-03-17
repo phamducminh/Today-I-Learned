@@ -43,6 +43,13 @@ public class MyApp extends MultiDexApplication {
 
 You can check the Github source ni [here](https://github.com/phamducminh/detect-app-fore-back-ground).
 
+### References
+
+* [
+Handling Lifecycles with Lifecycle-Aware Components](https://developer.android.com/topic/libraries/architecture/lifecycle#java)
+* [LifecycleObserver](https://developer.android.com/reference/android/arch/lifecycle/LifecycleObserver)
+* [ProcessLifecycleOwner](https://developer.android.com/reference/android/arch/lifecycle/ProcessLifecycleOwner)
+
 ## Inspiration
 
 Inspired by [Carlos Daniel](https://medium.com/@cdmunoz) and his post about [Detecting when an Android app is in foreground or background](https://medium.com/mindorks/detecting-when-an-android-app-is-in-foreground-or-background-7a1ff49812d7).
