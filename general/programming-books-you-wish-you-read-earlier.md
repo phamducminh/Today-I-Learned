@@ -15,4 +15,4 @@
 ---
 # Inspiration
 
-Inspired by Marty Jacobs and his article about Programming Books You Wish You Read Earlier. You can read more in [here](https://zeroequalsfalse.press/posts/programming-books-you-wish-you-read-earlier/).
+Inspired by Marty Jacobs and his article about **Programming Books You Wish You Read Earlier**. You can read more in [here](https://zeroequalsfalse.press/posts/programming-books-you-wish-you-read-earlier/).
