@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_26 TILs and counting..._
+_27 TILs and counting..._
 
 ---
 
@@ -52,6 +52,7 @@ _26 TILs and counting..._
 - [Inheritance versus composition: Which one should you choose?](https://www.javaworld.com/article/2076814/core-java/inheritance-versus-composition--which-one-should-you-choose-.html)
 - [Difference between transient vs volatile variable or modifier in Java](general/transient-vs-volatile.md)
 - [HashMap vs HashTable vs SynchronizedMap vs ConcurrentHashMap](general/hashmap-hashtable-synchronizedmap-concurrenthashmap.md)
+- [Programming Books You Wish You Read Earlier](general/programming-books-you-wish-you-read-earlier.md)
 
 ### Git
 
