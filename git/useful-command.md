@@ -5,19 +5,20 @@
 ```bash
 git checkout -- <file_path>     # discard specific file
 git checkout -- .               # discard all unstaged change
+git checkout <commit>           # discard unstaged changes since <commit>.
 ```
 
 2. Undo local commits
 
 ```bash
 git reset HEAD~1
-git reset --hard HEAD~1
+git reset --hard HEAD~1 # discard staged and unstaged changes since the most recent commit.
 ```
 
 3. Edit a commit message
 
 ```bash
-git commit --amend
+git commit --amend  # add your staged changes to the most recent commit
 git commit --amend -m "New message"
 ```
 
@@ -85,12 +86,13 @@ git filter-branch --force --index-filter \
 
 This will remove the file `secrets.txt` from every branch and tag. It will also remove any commits that would be empty as a result of the above operation.
 
-10. Log
+10. Show commit history
 
 ```bash
-git log             # show log
-git log --oneline   # show log in one line
-git log -n1         # show log of last commit
+git log                 # show log
+git log --oneline       # show log in one line
+git log -n1             # show log of last commit
+git log -p <file_name>  # show log for a file
 ```
 
 11. Show configuration list
@@ -106,5 +108,24 @@ git config --global --list  # see only global setting
 ```bash
 git config --unset key
 git config --unset --global key
+```
+
+13. See all file changes locally
+
+```bash
+git diff
+git diff <file_name>    # Show changes for only one file
+```
+
+14. See who changed what and when in file_name
+
+```bash
+git blame <file_name>
+```
+
+15. Show a log of changes to the local repository’s HEAD
+
+```bash
+git reflog
 ```
 
