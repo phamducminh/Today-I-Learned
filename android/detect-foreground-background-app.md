@@ -41,7 +41,7 @@ public class MyApp extends MultiDexApplication {
 }
 ```
 
-You can check the Github source ni [here](https://github.com/phamducminh/detect-app-fore-back-ground).
+You can check the Github source in [here](https://github.com/phamducminh/detect-app-fore-back-ground).
 
 ### References
 
