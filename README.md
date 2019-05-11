@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_27 TILs and counting..._
+_28 TILs and counting..._
 
 ---
 
@@ -30,6 +30,7 @@ _27 TILs and counting..._
 - [SparseArray Vs HashMap](android/sparsearray-vs-hashmap.md) :clock330: :soon:
 - [Tasks and the Back Stack](https://medium.com/androiddevelopers/tasks-and-the-back-stack-dbb7c3b0f6d4) :clock330: :soon:
 - [Detecting when an Android app is in foreground or background](android/detect-foreground-background-app.md)
+- [Spannable Text](android/spannable-text.md)
 
 ### Design Patterns
 
