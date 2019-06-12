@@ -22,11 +22,11 @@ is used when code is written inside another class, can be an anonymous class ins
 
 is used when the functions are static. 
 
-2. `synchronized (this) {...}`
+3. `synchronized (this) {...}`
 
 is used inside any member function of Foo. Which points to it's instance.
 
-3. `synchronized void foo() (...)`
+4. `synchronized void foo() (...)`
 
 is used when entire method need to be synchronized. it is equivalent to
 
@@ -36,7 +36,7 @@ void foo() {
 }
 ```
 
-4. `static synchronized foo() {...}`
+5. `static synchronized foo() {...}`
 
 it is equivalent to
 
