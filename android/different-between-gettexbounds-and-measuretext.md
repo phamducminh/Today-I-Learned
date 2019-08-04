@@ -10,6 +10,8 @@ In short,
 
 4. The text could be tilted (Skew) right. In this case, the bounding box right side would exceed outside the measurement of the measureText, and the overall length of the text bound would be bigger than `measureText`
 
+![](https://github.com/phamducminh/Today-I-Learned/blob/master/android/resources/different-between-gettexbounds-and-measuretext.png)
+
 ---
 
 ## Inspiration
