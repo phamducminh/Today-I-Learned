@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_29 TILs and counting..._
+_30 TILs and counting..._
 
 ---
 
@@ -32,6 +32,7 @@ _29 TILs and counting..._
 - [Detecting when an Android app is in foreground or background](android/detect-foreground-background-app.md)
 - [Spannable Text](android/spannable-text.md)
 - [Different between getTextBounds and measureText](android/different-between-gettexbounds-and-measuretext.md)
+- [BROADCAST: Security considerations and best practices](android/broadcast-security-considerations-and-best-practices.md)
 
 ### Design Patterns
 
