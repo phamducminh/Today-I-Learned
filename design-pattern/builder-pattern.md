@@ -59,6 +59,8 @@ Coordinate.builder().setX(x).setY(y).build());
 
 ## Some thoughts
 
+* Getting rid of telescoping constructors
+* Single place of definition
 * Using builder pattern will create immutable object, **threadsafe** but **consume memory**.
 * Variable x,y of Coordinate should declare final.
 * Constructor of Coordinate should have private access.
