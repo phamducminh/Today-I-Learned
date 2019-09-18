@@ -36,8 +36,11 @@ _30 TILs and counting..._
 
 ### Design Patterns
 
-- [Singleton Pattern and hidden things](design-pattern/singleton-pattern.md)
-- [Builder Pattern](design-pattern/builder-pattern.md)
+- Creational Patterns
+    - [Builder Pattern](design-pattern/builder-pattern.md)
+    - [Factory Method](design-pattern/factory-method.md)
+    - [Abstract Factory](design-pattern/abstract-factory.md)
+    - [Singleton Pattern and hidden things](design-pattern/singleton-pattern.md)
 
 ### FFMpeg
 
