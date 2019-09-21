@@ -33,6 +33,7 @@ _30 TILs and counting..._
 - [Spannable Text](android/spannable-text.md)
 - [Different between getTextBounds and measureText](android/different-between-gettexbounds-and-measuretext.md)
 - [BROADCAST: Security considerations and best practices](android/broadcast-security-considerations-and-best-practices.md)
+- [Why and When to use WorkManager](android/why-and-when-to-use-workmanager.md)
 
 ### Design Patterns
 
