@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_30 TILs and counting..._
+_31 TILs and counting..._
 
 ---
 
@@ -42,6 +42,9 @@ _30 TILs and counting..._
     - [Factory Method](design-pattern/factory-method.md)
     - [Abstract Factory](design-pattern/abstract-factory.md)
     - [Singleton Pattern and hidden things](design-pattern/singleton-pattern.md)
+    - [Starter Pattern](design-pattern/starter-pattern.md)
+
+- [Listener vs Callback vs Delegate](design-pattern/listener-callback-delegate.md)
 
 ### FFMpeg
 
