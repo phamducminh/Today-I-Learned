@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_31 TILs and counting..._
+_32 TILs and counting..._
 
 ---
 
@@ -63,6 +63,7 @@ _31 TILs and counting..._
 - [Difference between transient vs volatile variable or modifier in Java](general/transient-vs-volatile.md)
 - [HashMap vs HashTable vs SynchronizedMap vs ConcurrentHashMap](general/hashmap-hashtable-synchronizedmap-concurrenthashmap.md)
 - [Programming Books You Wish You Read Earlier](general/programming-books-you-wish-you-read-earlier.md)
+- [Is my Code dirty?](general/is-my-code-dirty.md)
 
 ### Git
 
