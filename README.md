@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_32 TILs and counting..._
+_33 TILs and counting..._
 
 ---
 
@@ -34,6 +34,7 @@ _32 TILs and counting..._
 - [Different between getTextBounds and measureText](android/different-between-gettexbounds-and-measuretext.md)
 - [BROADCAST: Security considerations and best practices](android/broadcast-security-considerations-and-best-practices.md)
 - [Why and When to use WorkManager](android/why-and-when-to-use-workmanager.md)
+- [Summary of the immersive modes](android/summary-of-the-immersive-modes.md)
 
 ### Design Patterns
 
