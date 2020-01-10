@@ -68,7 +68,7 @@ _33 TILs and counting..._
 
 ### Git
 
-- [Git useful command for your daily work](git/useful-command.md)
+- [Git useful command for your daily work](git/useful-commands.md)
 - How to hands-on...
     - [Rewriting History](git/git-rewriting-history.md)
     - [Rerere](git/git-rerere.md) :clock330:
