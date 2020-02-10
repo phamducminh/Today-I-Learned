@@ -25,8 +25,8 @@ git commit --amend -m "New message"
 4. Delete local branch
 
 ```bash
-git branch -d branchname
-git branch -D branchname
+git branch -d branchname  # Delete branchname if it is already merged
+git branch -D branchname  # Force delete branchname
 ```
 
 5. Delete remote branch
@@ -115,6 +115,8 @@ git config --unset --global key
 ```bash
 git diff
 git diff <file_name>    # Show changes for only one file
+git diff dev            # Displays changes between the working tree and the dev branch
+git diff master..dev    # Displays changes between the branches master and dev
 ```
 
 14. See who changed what and when in file_name
@@ -127,5 +129,45 @@ git blame <file_name>
 
 ```bash
 git reflog
+```
+
+---
+
+Update 02/10/2020
+
+16. Delete all local branches that have been merged into master or develop
+
+```bash
+[alias]
+  cu = !git branch --merged | egrep -v \"(^\\*|master|develop)\" | xargs git branch -d
+```
+
+Then type "git cu" (Git Clean Up)
+
+17. Add local file modifications:
+
+```bash
+git add <file/folder>     # Add file/folder to staging area
+git add . or git add -A   # Add all files/folders in all the folders of the repository
+git add . -u              # Add only tracked files/folders
+```
+
+18. Branching
+
+```bash
+git branch                    # List all local branches
+git branch -r                 # List all remote branches
+git branch -a                 # List all local/remote branches
+```
+
+```bash
+git branch <branch_name>      # Create new branch with name <branch_name> based off of current branch
+git branch -m <old_name> <new_name> # Rename branch from <old_name> to <new_name>
+git branch -m <new_name>      # Rename the current branch to <new_name>
+```
+
+```bash
+git checkout <branch_name>    # Switch to <branch_name>
+git checkout -b <branch_name> # Create new <branch_name> and switch to it
 ```
 
