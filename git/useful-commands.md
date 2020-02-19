@@ -171,3 +171,45 @@ git checkout <branch_name>    # Switch to <branch_name>
 git checkout -b <branch_name> # Create new <branch_name> and switch to it
 ```
 
+---
+
+Update 02/19/2020
+
+19. Clone git repository
+
+```bash
+git clone <repo_url> <to_directory>         # Clone repo into to specific directory
+git clone <repo_url> --branch <branch_name> # Clone specific branch
+git clone -depth=<depth_level> <repo_url>   # Clone a certain level of history’s depth
+```
+
+20. Working with remote
+
+```bash
+# List remote connections with URL
+git remote -v
+
+# Add another remote connection
+git remote add <new_remote_name> <new_remote_url>
+
+# Rename connection
+git remote rename <remote_old_name> <remote_new_name>
+
+# Delete connection
+git remote rm <remote_name>
+git remote remove <remote_name>
+```
+
+21. Dơwnload the latest code base with fetching
+
+```bash
+# Fetch all remote repositories
+git fetch --all
+
+# Fetch <remote_name> repository, usually origins
+git fetch <remote_name>
+
+# Fetch a branch from a remote repository
+git fetch <remote_name> <branch_name>
+```
+
