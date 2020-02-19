@@ -50,4 +50,8 @@ static void foo() {
 
 ## Conclusion
 
-**Static synchronized functions synchronize on the class while non-static synchronized functions synchronize on the instance.**
+* **Static synchronized functions synchronize on the class while non-static synchronized functions synchronize on the instance.**
+
+* When a thread has entered a synchronized instance method then no other thread can enter any of synchronized instance methods of the same instance
+
+* When a thread entered a synchronized static method then no other thread can enter any of synchronized static methods of the same class
