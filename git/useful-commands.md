@@ -189,6 +189,9 @@ git clone -depth=<depth_level> <repo_url>   # Clone a certain level of historyâ€
 # List remote connections with URL
 git remote -v
 
+# Change the remote url
+git remote set-url <remote_name> <new_remote_url>
+
 # Add another remote connection
 git remote add <new_remote_name> <new_remote_url>
 
