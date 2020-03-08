@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_33 TILs and counting..._
+_34 TILs and counting..._
 
 ---
 
@@ -65,6 +65,7 @@ _33 TILs and counting..._
 - [HashMap vs HashTable vs SynchronizedMap vs ConcurrentHashMap](general/hashmap-hashtable-synchronizedmap-concurrenthashmap.md)
 - [Programming Books You Wish You Read Earlier](general/programming-books-you-wish-you-read-earlier.md)
 - [Is my Code dirty?](general/is-my-code-dirty.md)
+- [Serialization and Deserialization](general/serialization-and-deserialization.md)
 
 ### Git
 
